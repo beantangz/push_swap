@@ -32,7 +32,7 @@ The following operations are allowed on the stacks (a and b):
 
 ### Compilation
 
-1. clone the repo
+1. Clone the repository (make sure you clone the whole project, including **libft**)
 2. cd push_swap
 3. make
 
