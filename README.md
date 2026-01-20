@@ -5,8 +5,9 @@
 
 ## Description
 
+
 **Push_Swap** is a project from the 42 school curriculum.
-Its goal is to sort data on a stack using a limited set of operations, and to do so with the minimum number of instructions.
+Its goal is to sort a stack A in ascending order using another stack B.
 
 This project relies on Libft, the custom C library developed during the 42 common core, for utility functions such as string manipulation, memory handling, and advanced utilities (ft_printf, get_next_line).
 
