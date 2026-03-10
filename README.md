@@ -1,4 +1,4 @@
-# Push_Swap
+# Sort
 <p align="center">
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="Push_swap 42 project badge"/>
 </p>
@@ -6,7 +6,7 @@
 ## Description
 
 
-**Push_Swap** is a project from the 42 school curriculum.
+**Sort** is a project from the 42 school curriculum.
 Its goal is to sort a stack A in ascending order using another stack B.
 
 This project relies on Libft, the custom C library developed during the 42 common core, for utility functions such as string manipulation, memory handling, and advanced utilities (ft_printf, get_next_line).
